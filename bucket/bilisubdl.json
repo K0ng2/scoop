@@ -5,12 +5,12 @@
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/K0ng2/bilisubdl/releases/download/v1.4.0/bilisubdl_1.4.0_Windows_x86_64.zip",
-      "hash": "bbe5a6b27f75c0ad31b155928e398893288c4dc74fc2756ec41617381ea93803"
+      "url": "https://github.com/K0ng2/bilisubdl/releases/download/v1.5.0/bilisubdl_1.5.0_Windows_x86_64.zip",
+      "hash": "1347522d6cb4fc944d4d991f7e2a8ecd8748d3484b1d13db4b0984eecd757d1f"
     },
     "32bit": {
-      "url": "https://github.com/K0ng2/bilisubdl/releases/download/v1.4.0/bilisubdl_1.4.0_Windows_i386.zip",
-      "hash": "a4adeb5290d276265c4603002f73d9384c0c45eeed5be44750ba61e59afb3699"
+      "url": "https://github.com/K0ng2/bilisubdl/releases/download/v1.5.0/bilisubdl_1.5.0_Windows_i386.zip",
+      "hash": "74a0ed2def01c11d6f5e17d23e0ed2661949a35e76638b48965e76c670723f35"
     }
   },
   "bin": "bilisubdl.exe",
