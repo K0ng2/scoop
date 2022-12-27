@@ -13,22 +13,5 @@
       "hash": "7ebd84077fece304d3636c960369581102751335b0e50fd1b191cf43268d7c97"
     }
   },
-  "bin": "bilisubdl.exe",
-  "checkver": {
-    "github": "https://github.com/K0ng2/bilisubdl/"
-  },
-  "autoupdate": {
-    "architecture": {
-      "64bit": {
-        "url": "https://github.com/K0ng2/bilisubdl/releases/download/v$version/bilisubdl_$version_Windows_x86_64.zip"
-      },
-      "32bit": {
-        "url": "https://github.com/K0ng2/bilisubdl/releases/download/v$version/bilisubdl_$version_Windows_i386.zip"
-      }
-    },
-    "hash": {
-      "url": "$baseurl/checksums.txt",
-      "regex": "$sha256  $basename\\n"
-    }
-  }
+  "bin": "bilisubdl.exe"
 }
