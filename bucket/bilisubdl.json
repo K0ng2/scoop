@@ -1,16 +1,16 @@
 {
-  "version": "1.7.0",
+  "version": "2.0.0",
   "description": "Command-line program to download subtitle from Bilibili.tv",
   "homepage": "https://github.com/K0ng2/bilisubdl",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/K0ng2/bilisubdl/releases/download/v1.7.0/bilisubdl_1.7.0_Windows_x86_64.zip",
-      "hash": "865abe917df770a1a31172ff3d5f91409b33532c6024f99dd910932cec221bd9"
+      "url": "https://github.com/K0ng2/bilisubdl/releases/download/v2.0.0/bilisubdl_2.0.0_windows_amd64.zip",
+      "hash": "3bf701eb36b0ca51139841dfdb2bd77fd155149b4789f2aa61a5b57d3e0b0a08"
     },
     "32bit": {
-      "url": "https://github.com/K0ng2/bilisubdl/releases/download/v1.7.0/bilisubdl_1.7.0_Windows_i386.zip",
-      "hash": "7ebd84077fece304d3636c960369581102751335b0e50fd1b191cf43268d7c97"
+      "url": "https://github.com/K0ng2/bilisubdl/releases/download/v2.0.0/bilisubdl_2.0.0_windows_386.zip",
+      "hash": "d41af00595ce27daaa139c624eee3d57ea358e605fdb0fcbc443cd192f273398"
     }
   },
   "bin": "bilisubdl.exe"
